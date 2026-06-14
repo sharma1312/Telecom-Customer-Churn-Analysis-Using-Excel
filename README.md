@@ -34,5 +34,6 @@ Analyzed telecom customer data to identify key drivers of customer churn using E
 - Launch retention campaigns for high-risk customers.
 
 ## Dashboard Preview
-<img width="4589" height="2696" alt="Dashboard" src="https://github.com/user-attachments/assets/f9b423e2-5a92-4b40-b1c0-3f7d28635518" />
+<img width="4568" height="2695" alt="Dashboard" src="https://github.com/user-attachments/assets/f391ad11-4a5c-47e6-9683-51f3039fd419" />
+
 
